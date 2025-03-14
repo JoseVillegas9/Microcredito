@@ -8,7 +8,7 @@ namespace Microcredito.Models
         [Required(ErrorMessage = "El nombre es obligatorio.")]
         public string Nombre { get; set; }
 
-        [Required(ErrorMessage = "El DNI es obligatorio.")]
+        [Required(ErrorMessage = "El DNI es obligatorio")]
         public string DNI { get; set; }
 
         [Required(ErrorMessage = "Debe ingresar la fecha de contratación.")]
