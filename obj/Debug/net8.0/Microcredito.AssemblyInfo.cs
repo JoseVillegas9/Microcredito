@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microcredito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56aee53c2b02efda98564fff29932e743f153e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microcredito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microcredito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

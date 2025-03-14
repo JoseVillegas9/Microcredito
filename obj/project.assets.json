@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uuario\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Uuario\\Desktop\\tarea\\tarea2\\Microcredito\\Microcredito.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\tarea\\Microcredito\\Microcredito.csproj",
       "projectName": "Microcredito",
-      "projectPath": "c:\\Users\\Uuario\\Desktop\\tarea\\tarea2\\Microcredito\\Microcredito.csproj",
-      "packagesPath": "C:\\Users\\Uuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Uuario\\Desktop\\tarea\\tarea2\\Microcredito\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\tarea\\Microcredito\\Microcredito.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\tarea\\Microcredito\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
